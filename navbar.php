@@ -7,10 +7,15 @@
   </head>
   <body>
     <div class="">
-      <a href="#">Forside</a>
-      <a href="#">Kategorier</a>
-      <a href="#">Om os</a>
-      <a href="#">Kurv</a>
+
+      <button type="button">Forside</button>
+        <link href="">
+      <button type="button">Kategorier</button>
+        <link href="">
+      <button type="button">Om os</button>
+        <link href="">
+      <button type="button">Kurv</button>
+        <link href="">
     </div>
   </body>
 </html>
