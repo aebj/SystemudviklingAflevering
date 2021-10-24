@@ -1,0 +1,15 @@
+.pad {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
